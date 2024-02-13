@@ -1,4 +1,5 @@
-Pengalaman Belajar di Dicoding
+#Pengalaman Belajar di Dicoding
 
-13 Februari 2024
-Belajar tentang Git. (Progres 39%)
+**13 Februari 2024**<br>
+
+* Belajar tentang Git. (Progres 39%)
