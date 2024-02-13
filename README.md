@@ -1,4 +1,4 @@
 # pengalaman-belajar
 
---Pengalaman belajar di Dicoding
-Belajar tentang Git
+Pengalaman belajar di Dicoding
+*Belajar tentang Git
